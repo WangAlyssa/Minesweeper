@@ -1,0 +1,3 @@
+/Users/yuhan/Desktop/Wang Alyssa Project3 Fall2025/cmake-build-debug/CMakeFiles/Minesweeper.dir
+/Users/yuhan/Desktop/Wang Alyssa Project3 Fall2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yuhan/Desktop/Wang Alyssa Project3 Fall2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
